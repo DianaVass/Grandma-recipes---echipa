@@ -1,0 +1,22 @@
+
+
+ body {
+    background-color: rgb(241, 234, 127);
+  }
+
+  body {
+    color: blue;
+  }
+
+table, th, td {
+    border: 1px solid rgb(4, 36, 56);
+  }
+
+  a {
+    text-decoration: none;
+    color:blue;
+  }
+
+  .p {
+    font-family: Arial, Helvetica, sans-serif;
+  }
